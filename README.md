@@ -21,12 +21,12 @@ My github journey has only just started, but more repos to come soon!
 
 ## Repo Structure :clipboard:
 ### Onboarding Guide to Routing in Azure: *currently updating draft*
-- Background, Objective & Guide Presentation
-- Part 1: Discovery/Reminder of Azure VNET Connectivity & Impact of Virtual Network Gateways
-- Part 2: ~~VM Routing~~ NIC Routing 
-- Part 3: NVA Routing
-- Part 4: NVA Routing v2 with VxLAN & ARS
-- Part 42: Does LPM always wins? SPOILER: NO *coming soon*
+- [Background, Objective & Guide Structure](https://github.com/cynthiatreger/az-routing-guide-intro)
+- [Episode #1: Discovery/Reminder of Azure VNET Connectivity & Impact of Virtual Network Gateways](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+- Episode #2: ~~VM Routing~~ NIC Routing 
+- Episode #3: NVA Routing
+- Episode #4: NVA Routing v2 with VxLAN & Route Server
+- Episode #42: Does LPM always wins? SPOILER: NO *coming soon*
 
 ### Labs :microscope:
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
