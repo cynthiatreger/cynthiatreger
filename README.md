@@ -21,7 +21,7 @@ My github journey has only just started, but more repos to come soon!
 
 ## Repo Structure :clipboard:
 ### Onboarding Guide to Routing in Azure: *currently updating draft*
-- Background, Objective & Intro
+- Background, Objective & Guide Presentation
 - Part 1: Discovery/Reminder of Azure VNET Connectivity & Impact of Virtual Network Gateways
 - Part 2: ~~VM Routing~~ NIC Routing 
 - Part 3: NVA Routing
