@@ -1,4 +1,4 @@
-### Welcome 👋
+## Welcome 👋
 
 <!--
 **cynthiatreger/cynthiatreger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working for Microsoft in the fantastic Advanced Azure Networking GBB team :star_struck:
+I am working at Microsoft in the fantastic Advanced Azure Networking GBB team :star_struck:
 
-My github journey has only just started:
+My github journey has only just started, but more repos to come soon!
 
+## Repo Structure :clipboard:
+### Onboarding Guide to Routing in Azure: *currently updating draft*
+- Background, Objective & Intro
+- Part 1: Discovery/Reminder of Azure VNET Connectivity & Impact of Virtual Network Gateways
+- Part 2: ~~VM Routing~~ NIC Routing 
+- Part 3: NVA Routing
+- Part 4: NVA Routing v2 with VxLAN & ARS
+- Part 42: Does LPM always wins? SPOILER: NO *coming soon*
+
+### Labs :microscope:
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
-
-But more repos to come soon!
