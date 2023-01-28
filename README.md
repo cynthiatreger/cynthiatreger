@@ -24,7 +24,7 @@ My github journey has only just started, but more repos to come soon!
 - [Background, Objective & Guide Structure](https://github.com/cynthiatreger/az-routing-guide-intro)
 - [Episode #1: Discovery/Reminder of Azure VNET Connectivity & Impact of Virtual Network Gateways](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 - [Episode #2: ~~VM Routing~~ NIC Routing](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
-- Episode #3: NVA Routing
+- Episode #3: NVA Routing: What if a VM hosts an OS with routing capabilities?
 - Episode #4: NVA Routing v2 with VxLAN & Route Server
 - Episode #42: Does LPM always wins? SPOILER: NO --> *coming soon*
 
