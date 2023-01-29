@@ -26,7 +26,7 @@ My github journey has only just started, but more repos to come soon!
 - [Episode #2: ~~VM Routing~~ NIC Routing](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 - [Episode #3: NVA Routing Fundamentals (or what if a VM hosts an OS with routing capabilities)](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 - [Episode #4: Chained NVAs & BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp)
-- Episode #5: NVA Routing v2 with VxLAN & Route Server
+- Episode #5: NVA Routing v2 with IPSec/VxLAN & Azure Route Server
 - Episode #42: Does LPM always wins? SPOILER: NO --> *coming soon*
 
 ### Labs :microscope:
