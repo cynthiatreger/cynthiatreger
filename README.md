@@ -20,13 +20,13 @@ I am working at Microsoft in the fantastic Advanced Azure Networking GBB team :s
 My github journey has only just started, but more repos to come soon!
 
 ## Repo Structure :clipboard:
-### Onboarding Guide to Routing in Azure --> *Public Preview*
-- [Background, objective & guide structure](https://github.com/cynthiatreger/az-routing-guide-intro) --> *Private Preview*
-- [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways) --> *Private Preview*
-- [Episode #2: ~~VM Routing~~ NIC Routing](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing) --> *Private Preview*
-- [Episode #3: NVA Routing Fundamentals (or what if a VM hosts an OS with routing capabilities)](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) --> *Private Preview*
-- [Episode #4: Chained NVAs & BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp) --> *Private Preview*
-- Episode #5: NVA Routing v2 with IPSec/VxLAN & Azure Route Server --> *Private Preview*
+### Onboarding Guide to Routing in Azure
+- [Background, objective & guide structure](https://github.com/cynthiatreger/az-routing-guide-intro)
+- [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+- [Episode #2: ~~VM Routing~~ NIC Routing](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing) --> out 31/01
+- [Episode #3: NVA Routing Fundamentals (or what if a VM hosts an OS with routing capabilities)](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) --> out 01/02
+- [Episode #4: Chained NVAs & BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp) --> out 02/02
+- [Episode #5: NVA Routing 2.0 with IPSec/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0) --> out 03/02
 - Episode #42: Does LPM always wins? (Spoiler: no) --> *coming soon*
 
 ### Labs :microscope:
