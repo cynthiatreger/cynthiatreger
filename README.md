@@ -23,7 +23,7 @@ My github journey has only just started, but more repos to come soon!
 ### Onboarding Guide to Routing in Azure
 - [Background, objective & guide structure](https://github.com/cynthiatreger/az-routing-guide-intro)
 - [Episode #1: VNET connectivity, impact of Virtual Network Gateways, On-Prem route propagation options](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
-- [Episode #2: ~~VM Routing~~ NIC Routing](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing) --> out 31/01
+- [Episode #2: ~~VM Routing~~ NIC Routing & Azure routes](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 - [Episode #3: NVA Routing Fundamentals (or what if a VM hosts an OS with routing capabilities)](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) --> out 01/02
 - [Episode #4: Chained NVAs & BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp) --> out 02/02
 - [Episode #5: NVA Routing 2.0 with IPSec/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0) --> out 03/02
