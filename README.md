@@ -27,7 +27,7 @@ My github journey has only just started, but more repos to come soon!
 - [Episode #3: NVA Routing Fundamentals (or what if a VM hosts an OS with routing capabilities)](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 - [Episode #4: Chained NVAs](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas)
 - [Episode #5: NVA Routing 2.0 with Azure Route Server, IPSec/VxLAN & BGP](https://github.com/cynthiatreger/az-routing-guide-ep5-nva-routing-2-0)
-- Episode #42: Does LPM always wins? (Spoiler: no) --> coming soon
+- Episode #42: Does LPM always wins? (Spoiler: no)
 
 ### Labs :microscope:
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
