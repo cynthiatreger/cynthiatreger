@@ -37,3 +37,13 @@ My github journey has only just started, but more repos to come soon!
 
 ### AVS x Networking
 - NVA+ARS for AVS Internet connectivity
+
+## More repos on Cloud Networking
+
+- [Adam Stuart](https://github.com/adstuart)
+- [Daniele Gauilli](https://github.com/danieleg82)
+- [Daniel Mauser](https://github.com/dmauser)
+- [Jeremy Wright](https://github.com/jwrightazure)
+- [Mays Algebary](https://github.com/malgebary)
+- [Jose Moreno](https://github.com/erjosito)
+- [David Santiago](https://github.com/dawlysd)
