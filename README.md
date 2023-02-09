@@ -33,10 +33,10 @@ My github journey has only just started, but more repos to come soon!
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
 
 ### Application Gateway
-- Scaling with Azure Application Gateway v2
+- [Scaling with Azure Application Gateway v2](https://github.com/cynthiatreger/scaling-app-gw-v2)
 
 ### AVS x Networking
-- NVA+ARS for AVS Internet connectivity
+- NVA + ARS for AVS Internet connectivity
 
 ## More repos on Cloud Networking
 
