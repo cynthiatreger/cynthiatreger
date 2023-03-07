@@ -38,6 +38,8 @@ My github journey has only just started, but more repos to come soon!
 ### AVS x Networking
 - [Transit and Internet connectivity for AVS with Azure Route Server](https://github.com/cynthiatreger/transit-and-internet-for-avs-with-ars)
 
+### Curiosity
+- [ARS and routing loops :face_with_spiral_eyes:](https://github.com/cynthiatreger/ARS-and-routing-loops)
 ## More repos on Cloud Networking
 
 - [Adam Stuart](https://github.com/adstuart)
