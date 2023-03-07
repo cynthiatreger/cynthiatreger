@@ -36,7 +36,7 @@ My github journey has only just started, but more repos to come soon!
 - [Scaling with Azure Application Gateway v2](https://github.com/cynthiatreger/scaling-app-gw-v2)
 
 ### AVS x Networking
-- NVA + ARS for AVS Internet connectivity
+- [Transit and Internet connectivity for AVS with Azure Route Server](https://github.com/cynthiatreger/transit-and-internet-for-avs-with-ars)
 
 ## More repos on Cloud Networking
 
