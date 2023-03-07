@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working at Microsoft in the fantastic Advanced Azure Networking GBB team :star_struck:
+I am working at Microsoft in the fantastic Azure Networking GBB team :star_struck:
 
 My github journey has only just started, but more repos to come soon!
 
