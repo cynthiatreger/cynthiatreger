@@ -36,7 +36,7 @@ My github journey has only just started, but more repos to come soon!
 - [Scaling with Azure Application Gateway v2](https://github.com/cynthiatreger/scaling-app-gw-v2)
 
 ### AVS x Networking
-- [Transit and Internet connectivity for AVS with Azure Route Server](https://github.com/cynthiatreger/transit-and-internet-for-avs-with-ars)
+- [H&S topologies with ARS for AVS transit and internet breakout](https://github.com/cynthiatreger/hs-and-ars-for-avs-and-internet-connectivity)
 
 ### Curiosity
 - [ARS and routing loops :face_with_spiral_eyes:](https://github.com/cynthiatreger/ARS-and-routing-loops)
