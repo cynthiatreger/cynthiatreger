@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am working at Microsoft in the fantastic Azure Networking GBB team :star_struck:
 
+If you want to find out more about my personal Move to Cloud, check out [this article](https://www.linkedin.com/pulse/think-azure-just-another-customer-branch-from-service-cynthia-treger/). #selfpromotion
+
 My github journey has only just started, but more repos to come soon!
 
 ## Repo Structure :clipboard:
@@ -38,8 +40,11 @@ My github journey has only just started, but more repos to come soon!
 ### AVS x Networking
 - [H&S topologies with ARS for AVS transit and internet breakout](https://github.com/cynthiatreger/hs-and-ars-for-avs-and-internet-connectivity)
 
+### Payment HSM x Networking
+- Securing connectivity to Payment HSM
+
 ### Curiosity
-- [ARS and routing loops :face_with_spiral_eyes:](https://github.com/cynthiatreger/ARS-and-routing-loops)
+- ARS and routing loops :face_with_spiral_eyes:
 ## More repos on Cloud Networking
 
 - [Adam Stuart](https://github.com/adstuart)
