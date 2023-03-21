@@ -33,12 +33,12 @@ My github journey has only just started, but more repos to come soon!
 
 ### Labs :microscope:
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
-- Payment HSM x Networking: Securing connectivity to Payment HSM
+- [Payment HSM x Networking: Securing access to Payment HSM](https://github.com/cynthiatreger/securing-phsm-access)
 
 ### Application Gateway
 - [Scaling with Azure Application Gateway v2](https://github.com/cynthiatreger/scaling-app-gw-v2)
 
-### AVS x Networking
+### Cross- x Networking
 - [H&S topologies with ARS for AVS transit and internet breakout](https://github.com/cynthiatreger/hs-and-ars-for-avs-and-internet-connectivity)
 
 ### Curiosity
