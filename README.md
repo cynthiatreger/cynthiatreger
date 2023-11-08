@@ -33,6 +33,9 @@ My github journey has only just started, but more repos to come soon!
 ### Labs :microscope:
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
 
+### Expressroute
+- [ExpressRoute resiliency]
+- 
 ### Application Gateway
 - [Scaling with Azure Application Gateway v2](https://github.com/cynthiatreger/scaling-app-gw-v2)
 
