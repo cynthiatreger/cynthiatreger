@@ -35,7 +35,6 @@ My github journey has only just started, but more repos to come soon!
 
 ### Expressroute
 - [Understanding ExpressRoute to address ExpressRoute resiliency](https://github.com/cynthiatreger/er-resiliency)
-- [ExpressRoute models](https://github.com/cynthiatreger/er-models)
 - [ExpressRoute data path](https://github.com/cynthiatreger/er-datapath)
   
 ### Application Gateway
