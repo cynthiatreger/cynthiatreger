@@ -34,7 +34,8 @@ My github journey has only just started, but more repos to come soon!
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
 
 ### Expressroute
-- [Understanding ExpressRoute to address ExpressRoute Resiliency](https://github.com/cynthiatreger/er-resiliency)
+- [Understanding ExpressRoute to address ExpressRoute resiliency](https://github.com/cynthiatreger/er-resiliency)
+- [ExpressRoute models](https://github.com/cynthiatreger/er-models)
 - [ExpressRoute data path](https://github.com/cynthiatreger/er-datapath)
   
 ### Application Gateway
