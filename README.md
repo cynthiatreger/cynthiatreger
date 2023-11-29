@@ -35,7 +35,7 @@ My github journey has only just started, but more repos to come soon!
 
 ### Expressroute
 - [Understanding ExpressRoute to address ExpressRoute resiliency](https://github.com/cynthiatreger/er-resiliency)
-- [ExpressRoute data path, FastPath and FastPath IP limits](https://github.com/cynthiatreger/er-datapath)
+- [ExpressRoute data path, FastPath and FastPath IP limits](https://github.com/cynthiatreger/er-fastpath)
   
 ### Application Gateway
 - [Scaling with Azure Application Gateway v2](https://github.com/cynthiatreger/scaling-app-gw-v2)
