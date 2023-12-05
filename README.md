@@ -43,7 +43,7 @@ My github journey has only just started, but more repos to come soon!
 ### Cross-Solution :handshake:
 - [AVS x Networking: H&S topologies with ARS for AVS transit and internet breakout](https://github.com/cynthiatreger/hs-and-ars-for-avs-and-internet-connectivity)
 - [Payment HSM x Networking: Payment HSM traffic inspection](https://github.com/cynthiatreger/securing-phsm-access)
-- [ESU enabled by Azure Arc, Network Considerations](https://github.com/adstuart/azure-arc-esu)
+- ESU enabled by Azure Arc, Network Considerations ([link to Adam's repo](https://github.com/adstuart/azure-arc-esu))
 
 ### Curiosity :exploding_head:
 - ARS and routing loops :face_with_spiral_eyes:
