@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working at Microsoft in the fantastic Azure Networking GBB team :star_struck:
+I am a **Global Black Belt** at Microsoft, passionate about Azure Networking :star_struck:
 
-If you want to find out more about my personal Move to Cloud, check out [this article](https://www.linkedin.com/pulse/think-azure-just-another-customer-branch-from-service-cynthia-treger/). #selfpromotion
-
-My github journey has only just started, but more repos to come soon!
+About [my personal Move to Cloud](https://www.linkedin.com/pulse/think-azure-just-another-customer-branch-from-service-cynthia-treger/)
 
 ## Repo Structure
 ### Onboarding Guide to Routing in Azure :open_book:
