@@ -31,7 +31,7 @@ About [my personal Move to Cloud](https://www.linkedin.com/pulse/think-azure-jus
 ### Labs :microscope:
 - [DIY vWAN: double Hub VNET and Azure Route Server](https://github.com/cynthiatreger/double-hub-vnet-and-ars)
 
-### Expressroute
+### Expressroute :railway_track:
 - [Understanding ExpressRoute to address ExpressRoute resiliency](https://github.com/cynthiatreger/er-resiliency)
 - [ExpressRoute data path, FastPath and FastPath IP limits](https://github.com/cynthiatreger/er-fastpath)
   
@@ -43,6 +43,9 @@ About [my personal Move to Cloud](https://www.linkedin.com/pulse/think-azure-jus
 - [Payment HSM x Networking: Payment HSM traffic inspection](https://github.com/cynthiatreger/securing-phsm-access)
 - ESU enabled by Azure Arc, Network Considerations ([link to Adam's repo](https://github.com/adstuart/azure-arc-esu))
 
+### Networking stuff :spider_web:
+- [Custom DHCP support in Azure](https://techcommunity.microsoft.com/t5/azure-networking-blog/custom-dhcp-support-in-azure/ba-p/4089674) (co-authored with [Daniele Gauilli](https://github.com/danieleg82))
+  
 ### Curiosity :exploding_head:
 - ARS and routing loops :face_with_spiral_eyes:
 - Does LPM always wins? (:warning:Spoiler: no)
