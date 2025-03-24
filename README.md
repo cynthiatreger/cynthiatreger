@@ -43,9 +43,10 @@ About [my personal Move to Cloud](https://www.linkedin.com/pulse/think-azure-jus
 - [Payment HSM x Networking: Payment HSM traffic inspection](https://github.com/cynthiatreger/securing-phsm-access)
 - ESU enabled by Azure Arc, Network Considerations ([link to Adam's repo](https://github.com/adstuart/azure-arc-esu))
 
-### SD-WAN in Azure 🌩️
+### SD-WAN in Azure⚡
 - [SD-WAN in Azure: integration options](https://github.com/cynthiatreger/sdwan-in-azure)
 - [Managed SD-WAN in vWAN: throughput considerations and underlay options](https://techcommunity.microsoft.com/t5/azure-networking-blog/managed-sd-wan-in-vwan-throughput-considerations-and-underlay/ba-p/4097864)
+- [Combining firewall protection and SD-WAN connectivity in Azure virtual WAN](https://techcommunity.microsoft.com/blog/azurenetworkingblog/combining-firewall-protection-and-sd-wan-connectivity-in-azure-virtual-wan/4394880)
 
 ### Other networking stuff :spider_web:
 - [Custom DHCP support in Azure](https://techcommunity.microsoft.com/t5/azure-networking-blog/custom-dhcp-support-in-azure/ba-p/4089674) (co-authored with [Daniele Gauilli](https://github.com/danieleg82))
